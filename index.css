@@ -25,6 +25,16 @@ body {
 ::-webkit-scrollbar {
   display: none!important; 
 }
-a {
-  
+@keyframes rainbow {
+  from {
+    filter: hue-rotate(1deg);
+  }
+
+  to {
+    filter: hue-rotate(359deg);
+  }
+}
+a:hover {
+  color: red!important;
+  animation: 4s rainbow infinite; 
 }
