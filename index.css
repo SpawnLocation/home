@@ -1,8 +1,4 @@
 @font-face {
-  font-family: 'swag';
-  src: url(https://spawnlocation.github.io/krunker/Bjork.ttf);
-}
-@font-face {
   font-family: 'Material Icons';
   font-style: normal;
   font-weight: 400;
@@ -19,7 +15,7 @@ body {
 } 
 * { 
   color: white!important; 
-  font-family: 'swag';
+  font-family: 'Roboto';
   font-size: 60px;
   transition: 4s!important; 
 }
