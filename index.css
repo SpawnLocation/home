@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 @font-face {
   font-family: 'Material Icons';
   font-style: normal;
@@ -15,7 +17,7 @@ body {
 } 
 * { 
   color: white!important; 
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif; 
   font-size: 60px;
   transition: 4s!important; 
 }
