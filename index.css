@@ -8,6 +8,7 @@ body {
 * { 
   color: white!important; 
   font-family: "swag";
+  font-size: 60px;
 }
 ::-webkit-scrollbar {
   display: none!important; 
