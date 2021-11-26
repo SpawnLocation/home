@@ -25,3 +25,8 @@ body {
 ::-webkit-scrollbar {
   display: none!important; 
 }
+a {
+  background: linear-gradient(#85C1E9, #D7BDE2);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
