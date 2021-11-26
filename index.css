@@ -26,7 +26,7 @@ body {
   display: none!important; 
 }
 a {
-  background: linear-gradient(#85C1E9, #D7BDE2);
+  background: linear-gradient(#b1e0ff, #e7afff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
