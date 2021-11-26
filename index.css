@@ -1,8 +1,10 @@
+@import url(https://spawnlocation.github.io/krunker/Bjork.ttf);
 body {
   background: black!important; 
 } 
 * { 
   color: white!important; 
+  font-family: "Bjork";
 }
 ::-webkit-scrollbar {
   display: none!important; 
