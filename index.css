@@ -21,6 +21,7 @@ body {
   color: white!important; 
   font-family: 'swag';
   font-size: 60px;
+  transition: 4s!important; 
 }
 ::-webkit-scrollbar {
   display: none!important; 
