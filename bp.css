@@ -316,7 +316,7 @@ span.material-icons.plusOrMinus {
 #uiBase.onMenu #specTimer {
     display: block!important;
     font-size: 35px;
-    background-color: rgba(0, 0, 0, 0);
+    background-color: transparent;
     padding: 10px;
     color: #b7adcf; }
 /* Ingame */
