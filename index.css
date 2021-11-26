@@ -1,0 +1,9 @@
+body {
+  background: black!important; 
+} 
+* { 
+  color: white!important; 
+}
+::-webkit-scrollbar {
+  display: none!important; 
+}
