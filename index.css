@@ -19,7 +19,7 @@ body {
   color: white!important; 
   font-family: 'Roboto', sans-serif; 
   font-size: 60px;
-  transition: 4s!important; 
+  transition: 1s!important; 
 }
 ::-webkit-scrollbar {
   display: none!important; 
