@@ -19,7 +19,7 @@ body {
 } 
 * { 
   color: white!important; 
-  font-family: "swag";
+  font-family: 'swag';
   font-size: 60px;
 }
 ::-webkit-scrollbar {
