@@ -300,13 +300,14 @@ span.material-icons.plusOrMinus {
     display: block!important;
     position: fixed;
     bottom: unset;
-    top: 0;
+    top: -20px;
     left: 50%;
     right: unset;
     transform: translate(-50%, 50%);
     z-index: 1;
     width: 10px;
-    height: 10px; }
+    height: 10px;
+}
 #uiBase.onMenu #spectateHUD {
     display: flex;
     justify-content: center;
