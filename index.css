@@ -11,17 +11,12 @@
     url(https://example.com/MaterialIcons-Regular.woff) format('woff'),
     url(https://example.com/MaterialIcons-Regular.ttf) format('truetype');
 }
-@font-face{ 
-  font-family: 'new-thing';
-  src: url(https://spawnlocation.github.io/krunker/Ubuntu-Title.ttf);
-}
-
 body {
   background: #B7ADCF!important; 
 } 
 * { 
   color: #a3deff!important; 
-  font-family: 'new-thing'; 
+  font-family: 'Roboto', sans-serif; 
   font-size: 60px;
   transition: 1s!important; 
 }
