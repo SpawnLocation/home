@@ -132,10 +132,11 @@ div#customizeButton:after {
         transform: skewX(10deg); } }
 /* misc*/
 #uiBase.onMenu #chatHolder {
-    top: 0%;
+    top: 75%;
     bottom: unset;
     left: 0%;
-    border: 4px solid #81a1b3!important; }
+    border: 4px solid #81a1b3!important;
+}
 #streamContainer {
     display: none; }
 .youNewDiv {
@@ -309,12 +310,13 @@ span.material-icons.plusOrMinus {
     position: fixed;
     bottom: unset;
     top: -20px;
-    left: 50%;
+    left: 0;
     right: unset;
-    transform: translate(-50%, 50%);
+    transform: translate(0%, 50%);
     z-index: 1;
     width: 10px;
     height: 10px;
+    margin-left: 80px;
 }
 #uiBase.onMenu #spectateHUD {
     display: flex;
