@@ -51,8 +51,14 @@ span.material-icons-outlined {
     transform: none; }
 #subLogoButtons {
     position: absolute;
-    bottom: 85%;
+    bottom: 80%;
     left: 50%; }
+#subLogoButtons:after {
+    display: block;
+    content: 'Made by SpawnLocation | Twitter: SpawnLocation';
+    text-align: center;
+    font-size: 20px;
+    color: white;}
 span.material-icons-outlined.menBtnIcn {
     color: #81a1b3!important; }
 div#menuBtnHost {
