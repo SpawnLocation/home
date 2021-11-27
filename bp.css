@@ -137,6 +137,12 @@ div#customizeButton:after {
     left: 0%;
     border: 4px solid #81a1b3!important;
 }
+#uiBase.onEndScrn #chatHolder {
+    top: 75%;
+    bottom: unset;
+    left: 0%;
+    border: 4px solid #81a1b3!important;
+}
 #streamContainer {
     display: none; }
 .youNewDiv {
