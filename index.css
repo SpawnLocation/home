@@ -17,10 +17,10 @@
 }
 
 body {
-  background: grey!important; 
+  background: #B7ADCF!important; 
 } 
 * { 
-  color: white!important; 
+  color: #81a1b3!important; 
   font-family: 'new-thing'; 
   font-size: 60px;
   transition: 1s!important; 
