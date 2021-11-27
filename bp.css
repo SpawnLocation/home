@@ -43,8 +43,8 @@ span.material-icons-outlined {
     text-shadow: none!important; }
 /* button*/
 .button.small {
-    margin-left: -3px;
-    margin-right: -3px; }
+    margin-left: -4px;
+    margin-right: -4px; }
 .button.small:hover {
     transform: none; }
 #subLogoButtons {
