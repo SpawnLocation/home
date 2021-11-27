@@ -316,7 +316,8 @@ span.material-icons.plusOrMinus {
     z-index: 1;
     width: 10px;
     height: 10px;
-    margin-left: 80px;
+    margin-left: 65px;
+    margin-top: 20px;
 }
 #uiBase.onMenu #spectateHUD {
     display: flex;
