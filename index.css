@@ -13,7 +13,7 @@
 }
 @font-face{ 
   font-family: 'new-thing';
-  src: url(https://spawnlocation.github.io/krunker/Ubuntu-title.ttf);
+  src: url(https://spawnlocation.github.io/krunker/Ubuntu-Title.ttf);
 }
 
 body {
@@ -21,7 +21,7 @@ body {
 } 
 * { 
   color: white!important; 
-  font-family: 'Roboto', sans-serif; 
+  font-family: 'new-thing'; 
   font-size: 60px;
   transition: 1s!important; 
 }
