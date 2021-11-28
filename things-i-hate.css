@@ -20,7 +20,6 @@
 ::-webkit-scrollbar {
     display: none!important; }
 #faceItIconM {
-    display: none;
-}
-#rankedSoonTm{
-    display: none!important;}
+    display: none; }
+#rankedSoonTm {
+    display: none!important; }
