@@ -12,10 +12,10 @@
     url(https://example.com/MaterialIcons-Regular.ttf) format('truetype');
 }
 body {
-  background: #B7ADCF!important; 
+  background: #003B73!important; 
 } 
 * { 
-  color: #a3deff!important; 
+  color: white!important; 
   font-family: 'Roboto', sans-serif; 
   font-size: 60px;
   transition: 1s!important; 
