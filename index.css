@@ -1,23 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-
 @font-face {
-  font-family: 'Material Icons';
-  font-style: normal;
-  font-weight: 400;
-  src: url(https://example.com/MaterialIcons-Regular.eot); /* For IE6-8 */
-  src: local('Material Icons'),
-    local('MaterialIcons-Regular'),
-    url(https://example.com/MaterialIcons-Regular.woff2) format('woff2'),
-    url(https://example.com/MaterialIcons-Regular.woff) format('woff'),
-    url(https://example.com/MaterialIcons-Regular.ttf) format('truetype');
+  font-family: 'ratio';
+  src: url(https://spawnlocation.github.io/krunker/font2.ttf);
 }
 body {
   background: #0C2D48!important; 
-  text-align: center!important;
 } 
 * { 
   color: white!important; 
-  font-family: 'Roboto', sans-serif; 
+  font-family: 'ratio'; 
   font-size: 60px;
   transition: 1s!important; 
 }
