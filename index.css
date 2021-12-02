@@ -10,6 +10,7 @@ body {
   font-family: 'ratio'; 
   font-size: 60px;
   transition: 1s!important; 
+  text-align: center!important;
 }
 ::-webkit-scrollbar {
   display: none!important; 
