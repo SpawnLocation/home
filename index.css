@@ -11,6 +11,7 @@ body {
   font-size: 60px;
   transition: 1s!important; 
   text-align: center!important;
+  letter-spacing: 3px!important;
 }
 ::-webkit-scrollbar {
   display: none!important; 
