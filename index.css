@@ -30,5 +30,6 @@ body {
   }
 }
 a:hover {
-  font-family: 'b'!important;
+ /* font-family: 'b'!important; idk*/
+  color: lightgrey;
 }
