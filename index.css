@@ -30,5 +30,5 @@ body {
   }
 }
 a:hover {
-  font-family: 'b';
+  font-family: 'b'!important;
 }
