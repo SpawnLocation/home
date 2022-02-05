@@ -2,10 +2,6 @@
   font-family: 'ratio';
   src: url(https://spawnlocation.github.io/krunker/font2.ttf);
 }
-@font-face {
-  font-family: 'b';
-  src: url(https://spawnlocation.github.io/krunker/Bjork.ttf);
-}
 body {
   background: #637794!important; 
 } 
