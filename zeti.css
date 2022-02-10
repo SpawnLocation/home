@@ -88,7 +88,7 @@ div#hudClassIcon {
 div#healthValueHolder {
     background: transparent!important; }
 div#healthValue {
-    font-size: 80px;
+    font-size: 40%;
     text-shadow: 4px 4px #000; }
 div#healthBar {
     display: none!important; }
@@ -103,7 +103,7 @@ div#ammoDisplay {
     background: transparent; }
 div#ammoVal {
     color: white!important;
-    font-size: 80px;
+    font-size: 40%;
     text-shadow: 4px 4px #000; }
 div#ammoMax {
     display: none!important; }
