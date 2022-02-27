@@ -1,25 +1,4 @@
 /* Adblocker + clears up space in menu ui */
-#braveWarning {
-    display: none!important; }
-#aMerger,
-#aHolder {
-    display: none!important; }
-#endAMerger,
-#endAContainer {
-    display: none!important; }
-#loadHeader {
-    display: none; }
-#braveWarning {
-    display: none!important; }
-#tlInfHold {
-    display: none!important; }
-#newsHolder {
-    display: none!important; }
-.verticalSeparatorInline {
-    display: none!important; }
-::-webkit-scrollbar {
-    display: none!important; }
-#faceItIconM {
-    display: none; }
-#rankedSoonTm {
-    display: none!important; }
+#braveWarning, #aMerger, #aHolder, #endAMerger,#endAContainer, #loadHeader ,#tlInfHold, #newsHolder, .verticalSeparatorInline, ::-webkit-scrollbar, #faceItIconM,#rankedSoonTm {
+    display: none!important;
+}
