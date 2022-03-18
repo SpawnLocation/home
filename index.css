@@ -1,13 +1,13 @@
 @font-face {
-  font-family: 'ratio';
-  src: url(https://spawnlocation.github.io/krunker/font2.ttf);
+  font-family: akira;
+  src: url(https://spawnlocation.github.io/krunker/akira.ttf);
 }
 body {
   background: #637794!important; 
 } 
 * { 
   color: white!important; 
-  font-family: 'ratio'; 
+  font-family: akira; 
   font-size: 60px;
   transition: 1s!important; 
   text-align: center!important;
