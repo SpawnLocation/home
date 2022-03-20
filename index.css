@@ -25,6 +25,9 @@ body {
     filter: hue-rotate(359deg);
   }
 }
+a { 
+  transform: translateY(-50%);
+  top: 50%;}
 a:hover {
   color: lightgrey!important;
 }
