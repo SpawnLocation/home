@@ -45,10 +45,14 @@ Use the following @import url below.
     color: #5941A9!important;
 }
 
-/* FILL THIS UP LATER ON
-* [href="/social.html?p=clan&q=PLACEHOLDER"] {
-    color: grey!important;
+* [href="/social.html?p=clan&q=GOTH"] {
+    color: black!important;
 }
+
+* [href="/social.html?p=clan&q=7"] {
+    color: #FFD6E0!important;
+} 
+/* FILL THIS UP LATER ON
 * [href="/social.html?p=clan&q=PLACEHOLDER"] {
     color: grey!important;
 }
