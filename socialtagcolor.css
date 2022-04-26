@@ -6,8 +6,9 @@ At some point in time all well known clans will have the color filled in with a 
 Use the following @import url below. 
 */ 
 
+@import url(https://spawnlocation.github.io/home/socialtagcolor.css);
 
-
+/* Don't touch any of this unless you know what you're doing */
 * [href="/social.html?p=clan&q=ui"] {
     color: #ff5050!important;
 }
