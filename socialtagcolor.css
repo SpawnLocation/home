@@ -66,20 +66,20 @@ Use the following @import url below.
 }
 
 @keyframes magic {
-    0% { background-image: linear-gradient(to right, #F991CC, #E2AFDE, #D3C2CE, #D3D2C7, #E2E1B9);}
-    20% { background-image: linear-gradient(to right, #E2AFDE, #D3C2CE, #D3D2C7, #E2E1B9, #F991CC);}
-    40% { background-image: linear-gradient(to right, #D3C2CE, #D3D2C7, #E2E1B9, #F991CC, #E2AFDE);}
-    60% { background-image: linear-gradient(to right, #D3D2C7, #E2E1B9, #F991CC, #E2AFDE, #D3C2CE);}
-    80% { background-image: linear-gradient(to right, #E2E1B9, #F991CC, #E2AFDE, #D3C2CE, #D3D2C7);}
-    100% { background-image: linear-gradient(to right, #F991CC, #E2AFDE, #D3C2CE, #D3D2C7, #E2E1B9);}
+    0% { background-image: linear-gradient(to right, #9EBC9E, #5C5D8D, #FF5376, #553E4E, #E0479E);}
+    20% { background-image: linear-gradient(to right, #5C5D8D, #FF5376, #553E4E, #E0479E, #9EBC9E);}
+    40% { background-image: linear-gradient(to right, #FF5376, #553E4E, #E0479E, #9EBC9E, #FFCFD2);}
+    60% { background-image: linear-gradient(to right, #553E4E, #E0479E, #9EBC9E, #5C5D8D, #5C5D8D);}
+    80% { background-image: linear-gradient(to right, #E0479E, #9EBC9E, #5C5D8D, #FF5376, #553E4E);}
+    100% { background-image: linear-gradient(to right, #9EBC9E, #5C5D8D, #FF5376, #553E4E, #E0479E);}
 }
 * [href="/social.html?p=clan&q=魔人"] {
     animation: magic 0.4s linear infinite;
-    transition: 0.5s!important;
-    background-size: 400% 100%;
+    background-size: 300% 100%;
     color: transparent!important;
     -webkit-background-clip: text;
 }
+
 
 
 
