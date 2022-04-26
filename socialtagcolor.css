@@ -29,10 +29,6 @@ Use the following @import url below.
     color: #9f0000!important;
 }
 
-* [href="/social.html?p=clan&q=ui"] {
-    color: magenta!important;
-}
-
 * [href="/social.html?p=clan&q=Flaw"] {
     color: #919191!important;
 }
