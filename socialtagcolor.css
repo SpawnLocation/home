@@ -10,7 +10,11 @@ Use the following @import url below.
 
 /* Don't touch any of this unless you know what you're doing */
 * [href="/social.html?p=clan&q=ui"] {
-    color: #ff5050!important;
+    background-image: url(https://spawnlocation.github.io/home/vroooom.gif);
+    filter: hue-rotate(130deg);
+    background-size: 400% 100%;
+    color: transparent!important;
+    -webkit-background-clip: text;
 }
 
 * [href="/social.html?p=clan&q=Verb"] {
