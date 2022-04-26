@@ -56,10 +56,12 @@ Use the following @import url below.
 * [href="/social.html?p=clan&q=7"] {
     color: #FAC8CD!important;
 }
-/* FILL THIS UP LATER ON
-* [href="/social.html?p=clan&q=PLACEHOLDER"] {
-    color: grey!important;
+
+* [href="/social.html?p=clan&q=Arae"] {
+    color: #2F4858!important;
 }
+
+/* FILL THIS UP LATER ON
 * [href="/social.html?p=clan&q=PLACEHOLDER"] {
     color: grey!important;
 }
