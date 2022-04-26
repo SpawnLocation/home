@@ -65,10 +65,27 @@ Use the following @import url below.
     color: #2F4858!important;
 }
 
-/* FILL THIS UP LATER ON
-* [href="/social.html?p=clan&q=PLACEHOLDER"] {
-    color: grey!important;
+@keyframes magic {
+    0% { background-image: linear-gradient(to right, #F991CC, #E2AFDE, #D3C2CE, #D3D2C7, #E2E1B9);}
+    20% { background-image: linear-gradient(to right, #E2AFDE, #D3C2CE, #D3D2C7, #E2E1B9, #F991CC);}
+    40% { background-image: linear-gradient(to right, #D3C2CE, #D3D2C7, #E2E1B9, #F991CC, #E2AFDE);}
+    60% { background-image: linear-gradient(to right, #D3D2C7, #E2E1B9, #F991CC, #E2AFDE, #D3C2CE);}
+    80% { background-image: linear-gradient(to right, #E2E1B9, #F991CC, #E2AFDE, #D3C2CE, #D3D2C7);}
+    100% { background-image: linear-gradient(to right, #F991CC, #E2AFDE, #D3C2CE, #D3D2C7, #E2E1B9);}
 }
+* [href="/social.html?p=clan&q=魔人"] {
+    animation: magic 0.4s linear infinite;
+    transition: 0.5s!important;
+    background-size: 400% 100%;
+    color: transparent!important;
+    -webkit-background-clip: text;
+}
+
+
+
+
+
+/* FILL THIS UP LATER ON
 * [href="/social.html?p=clan&q=PLACEHOLDER"] {
     color: grey!important;
 }
