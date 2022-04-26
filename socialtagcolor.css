@@ -42,7 +42,9 @@ Use the following @import url below.
 }
 
 * [href="/social.html?p=clan&q=T1"] {
-    color: #001164!important;
+    background: linear-gradient(90deg, #001164, white);
+    color: transparent!important;
+    -webkit-background-clip: text;
 }
 
 * [href="/social.html?p=clan&q=4.am"] {
