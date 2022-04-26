@@ -74,8 +74,8 @@ Use the following @import url below.
     100% { background-image: linear-gradient(to right, #9EBC9E, #5C5D8D, #FF5376, #553E4E, #E0479E);}
 }
 * [href="/social.html?p=clan&q=魔人"] {
-    animation: magic 0.4s linear infinite;
-    background-size: 300% 100%;
+    animation: magic 1.5s linear infinite;
+    background-size: 400% 100%;
     color: transparent!important;
     -webkit-background-clip: text;
 }
