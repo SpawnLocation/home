@@ -4,6 +4,7 @@ The css must be applied using the @import url in the social_custom.css file, the
 This css colors in clan tags, for example: verb has a bright purple clan tag and 24/7 has a cyan clan tag. 
 At some point in time all well known clans will have the color filled in with a color that is representative of their color scheme. 
 Use the following @import url below. 
+Made by SpawnLocation
 */ 
 
 @import url(https://spawnlocation.github.io/home/socialtagcolor.css);
