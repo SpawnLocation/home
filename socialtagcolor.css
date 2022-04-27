@@ -9,7 +9,7 @@ Use the following @import url below.
 @import url(https://spawnlocation.github.io/home/socialtagcolor.css);
 
 /* Don't touch any of this unless you know what you're doing */
-#aHolder, #hubBox {
+#aHolder, #hubBox, #editrDB, #androidDB, #iosDB, #steamDB {
     display: none!important;
 } 
 
