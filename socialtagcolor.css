@@ -9,6 +9,22 @@ Use the following @import url below.
 @import url(https://spawnlocation.github.io/home/socialtagcolor.css);
 
 /* Don't touch any of this unless you know what you're doing */
+#aHolder {
+    display: none;
+} 
+#hubBox {
+    display: none;
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: -14px;
+    vertical-align: middle;
+    font-size: 30px;
+    color: rgba(255,255,255,.82);
+    background-color: #4287f5;
+    border-radius: 5px;
+}
+
 * [href="/social.html?p=clan&q=ui"] {
     background-image: url(https://spawnlocation.github.io/home/vroooom.gif);
     filter: hue-rotate(130deg);
