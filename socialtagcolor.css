@@ -81,19 +81,19 @@ Made by SpawnLocation
         background-position: 0%; 
     }
     to {
-        background-position: 100%:    
+        background-position: 280%:    
     }
     
 }
 * [href="/social.html?p=clan&q=魔人"] {
-    background-image: linear-gradient(to right, #5C5D8D, #53e5ff, #6476ab, #53e5ff, #5C5D8D);
-    animation: magic 1000ms infinite alternate-reverse;
+    background-image: linear-gradient(to right, #5C5D8D, #ffdf53, #5C5D8D);
+    animation: magic 1000ms linear 1ms infinite;
     background-size: 400%;
-    background-position: -100%;
+    padding-top: 3px;
+    background-position: -280%;
     color: transparent!important;
    -webkit-background-clip: text;
 }
-
 
 
 
