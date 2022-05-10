@@ -72,6 +72,10 @@ Made by SpawnLocation
     color: #FAC8CD!important;
 }
 
+* [href="/social.html?p=clan&q=vm"] {
+    color: lightpink!important;
+}
+
 * [href="/social.html?p=clan&q=Arae"] {
     color: #2F4858!important;
 }
