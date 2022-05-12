@@ -79,6 +79,9 @@ Made by SpawnLocation
 * [href="/social.html?p=clan&q=Arae"] {
     color: #2F4858!important;
 }
+* [href="/social.html?p=clan&q=KPD"] {
+    color: #1d3557!important;
+}
 
 @keyframes magic {
     from {
